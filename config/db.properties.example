@@ -1,0 +1,5 @@
+# Copy this file to config/db.properties and fill in your own MySQL details.
+# (config/db.properties is ignored by git and must never be shared.)
+db.url=jdbc:mysql://localhost:3306/vaastu_care?useSSL=false&allowPublicKeyRetrieval=true
+db.user=root
+db.password=CHANGE_ME

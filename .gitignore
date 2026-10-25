@@ -1,0 +1,6 @@
+config/db.properties
+out/
+target/
+uploads/
+lib/
+sources.txt
